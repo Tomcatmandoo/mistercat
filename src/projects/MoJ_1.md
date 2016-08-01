@@ -2,7 +2,7 @@
 template: project.html
 title: Complete your deputy report online
 client: Office of the Public Guardian/Ministry of Justice
-role: Interaction design, UI design, UI design
+role: Interaction design, UX design, UI design
 startdate: 2014-06-01
 enddate: 2015-05-01
 coverimage: LandingPage_DigiDeps.jpg
@@ -15,7 +15,7 @@ images:
       It was later used by the Syrian refugee resettlement team as a training tool, as well as being requested as a template model for several other prtojects across the Home Office.
   - src: Project_DigiDeps_2.jpg
     description: |
-      This was one of many user journey flows I developed. This one shows the process of the user submitting an end of year report.
+      This was one of many user journey flows I developed. This one shows the process of the user submitting an end of year report. 
 
       It was the basis of the work to understand 6 main areas opportunity to be able to propose 3 different scope sizes of the project to the stakeholders, so they could decide on which areas of the process to focus on first.
   - src: Project_DigiDeps_3.jpg

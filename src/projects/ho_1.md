@@ -2,7 +2,7 @@
 template: project.html
 title: Syrian refugee settlement service
 client: Home Office
-role: Service design, Interaction design, UI design, UI design
+role: Service design, Interaction design, UX design, UI design
 startdate: 2015-10-01
 enddate: 2016-09-01
 coverimage: LandingPage_SRRS.jpg
