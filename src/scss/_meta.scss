@@ -1,0 +1,16 @@
+@import "vars";
+
+.meta {
+  .title {
+    color: $titleColor;
+    font-weight: 400;
+
+    &:first-child {
+      margin-top: $gutter;
+    }
+
+  }
+  .data {
+    margin-bottom: $gutter * 2;
+  }
+}

@@ -1,0 +1,31 @@
+{% extends "./templates/layout.html" %}
+
+{% block main %}
+  <p class="intro">
+    I’m a user-centred designer with 20 years of digital design experience,
+    based in London. I’ve recently been working in UK Government as an
+    interaction and service designer. Blah blah blah
+  </p>
+
+  <div class="row">
+    {% for project in projects %}
+      <div class="col-sm-6">
+        <div class="thumbnail">
+            <a href="{{ project.path }}">
+              <img src="images/{{ project.coverimage }}" />
+            </a>
+          <div class="caption">
+            <div class="project">
+              <a href="{{ project.path }}">
+                {{ project.title }} - {{ project.client }}
+              </a>
+            </div>
+            <div class="position">
+              <a href="{{ project.path }}">{{ project.role }}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}

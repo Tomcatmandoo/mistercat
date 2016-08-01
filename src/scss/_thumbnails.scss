@@ -1,0 +1,32 @@
+@import "vars";
+@import "fonts";
+
+.thumbnail {
+  background: $outline;
+  padding: 1px;
+
+  .caption {
+      color: $white;
+
+      p {
+        margin: 0;
+        padding: 0;
+      }
+
+      .project {
+        @include text-medium;
+      }
+
+      .position {
+        @include text-small;
+      }
+
+      a {
+        color: $white;
+        text-decoration: none;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+  }
+}

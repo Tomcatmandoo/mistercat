@@ -1,0 +1,61 @@
+@import "vars";
+
+footer {
+  clear:both;
+  border-top: 1px solid $darkgrey;
+  background: $headbg;
+
+  nav {
+      @extend %contain-floats;
+      @include box-sizing(border-box);
+      padding-bottom: $mobilegutter;
+
+      .nav-item {
+          @include box-sizing(border-box);
+          @include text-medium();
+          padding: $mobilegutter;
+          width: 100%;
+          display: inline-block;
+
+          @include media(tablet) {
+              padding: $gutter;
+              padding-bottom: $gutter * 2;
+              width: 25%;
+          }
+      }
+
+      .arrow {
+          display: none;
+          @include media(tablet) {
+              display: inline;
+          }
+      }
+
+      #previous-link {
+          text-align: center;
+          @include media(tablet) {
+              float: left;
+              text-align: left;
+          }
+      }
+
+      #next-link {
+          text-align: center;
+          @include media(tablet) {
+              float: right;
+              text-align: right;
+          }
+      }
+
+      #top-link {
+          text-align: center;
+          @include media(tablet) {
+              float: left;
+              margin: 0 auto;
+              text-align: center;
+          }
+      }
+
+  }
+
+}

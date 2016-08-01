@@ -1,0 +1,50 @@
+@import "vars";
+
+header {
+  border-bottom: 1px solid $darkgrey;
+  background: $headbg;
+
+  .site-title {
+    @include title-big;
+    color: $grey;
+    margin: $gutter 0;
+    a {
+      color: $grey;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .site-subtitle {
+    @include title-small;
+    font-style: italic;
+    color: $grey;
+    margin-top: 0 0 $gutter;
+  }
+
+  .contact-details {
+    @include title-small;
+    margin-top: $gutter;
+    text-align: right;
+    line-height: 1.25;
+
+    .online a {
+      display: inline;
+    }
+
+    .online .divider {
+      margin: 0 5px
+    }
+
+    a, .tel {
+      clear: both;
+      display: block;
+    }
+
+    .tel {
+      margin: 0;
+    }
+  }
+}

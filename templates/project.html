@@ -1,0 +1,39 @@
+{% extends "./templates/layout.html" %}
+
+{% block main %}
+  <div class="row">
+    <div class="col-sm-12"><a class="back-link" href="/">Back</a></div>
+  </div>
+  <div class="row">
+    <div class="col-sm-8">
+      <h1 class="heading-large">{{ client }}</h1>
+      <div class="introduction">{{ contents | safe }}</div>
+    </div>
+    <div class="col-sm-4">
+      <dl class="meta">
+        <dt class="title">Client</dt>
+        <dd class="data">{{ client }}</dd>
+        <dt class="title">Category</dt>
+        <dd class="data">{{ role }}</dd>
+        <dt class="title">Project dates</dt>
+        <dd class="data">{{ startdate }} to {{ enddate }}</dd>
+      </dl>
+      <a class="project-link" href="{{ website }}">View project</a>
+    </div>
+  </div>
+  {% for image in images%}
+    <div class="row step">
+      <div class="col-sm-8">
+        <div class="thumbnail">
+          <img src="/images/{{image.src}}" />
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div>{{ image.description | safe }}</div>
+      </div>
+    </div>
+  {% endfor %}
+  <div class="row">
+    <div class="col-sm-12"><a class="back-link" href="/">Back</a></div>
+  </div>
+{% endblock %}

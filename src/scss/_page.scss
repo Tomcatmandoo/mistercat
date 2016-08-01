@@ -1,0 +1,44 @@
+@import "vars";
+
+body {
+  margin: 0;
+  background: $contentbg;
+  @include box-sizing(border-box);
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+#main {
+  margin-top: $gutter;
+  @include text-medium;
+  p {
+    margin-bottom: $gutter;
+  }
+  .container {
+    width: 1170px;
+  }
+}
+
+p.intro {
+  margin: $gutter/2 0 $gutter 0;
+  max-width: 790px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: $gutter;
+  padding-left: $gutter;
+  position: relative;
+
+  &:before {
+    content: '<';
+    left: 0;
+    position: absolute;
+  }
+}
+
+.step {
+  margin-top: 40px;
+}
