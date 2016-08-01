@@ -3,7 +3,7 @@ template: project.html
 title: Complete your deputy report online
 client: Office of the Public Guardian/Ministry of Justice
 role: Interaction design, UX design, UI design
-startdate: 2014-06-01
+startdate: 2014-09-01
 enddate: 2015-05-01
 coverimage: LandingPage_DigiDeps.jpg
 website: https://www.gov.uk/complete-deputy-report
@@ -44,7 +44,9 @@ images:
 
 ---
 A deputy is a person appointed by the Court of Protection to manage the affairs of someone who lacks the mental capacity to manage their own affairs. A deputy is usually a friend or relative of the person who lacks capacity, but in some circumstances could be a professional such as a solicitor or accountant or another professional appointed by the court.
+
 I worked on developing a digital service to replace the existing paper form system. The user research concluded that many lay deputies really struggled with having to complete yearly accounts for their charge, coupled with some very badly designed paper forms that many simply couldn’t understand.
+
 Some of the problems we tried to solve were around the user not understanding the tasks through the lack of plain english; Not having a clear understanding of what information was needed from them; Users being uncomfortable with being asked to do the task of an accountant; Fears around making mistakes with the figures, which could lead to some serious outcomes.
 
 **Tasks include:**
