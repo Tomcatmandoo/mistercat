@@ -1,2 +1,2 @@
 # mistercat
-Mister Cat website
+Mister Cat ~ Tom Norman
