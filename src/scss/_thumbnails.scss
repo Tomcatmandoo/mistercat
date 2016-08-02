@@ -3,7 +3,9 @@
 
 .thumbnail {
   background: $outline;
-  padding: 1px;
+  padding: 2px;
+  border-radius: 0;
+  border: 0;
 
   .caption {
       color: $white;

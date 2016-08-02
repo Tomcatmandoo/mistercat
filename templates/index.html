@@ -1,11 +1,7 @@
 {% extends "./templates/layout.html" %}
 
 {% block main %}
-  <p class="intro">
-    I’m a user-centred designer with 20 years of digital design experience,
-    based in London. I’ve recently been working in UK Government as an
-    interaction and service designer. Blah blah blah
-  </p>
+  <div class="intro">{{ contents | safe }}</div>
 
   <div class="row">
     {% for project in projects %}

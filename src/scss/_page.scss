@@ -21,8 +21,11 @@ body {
   }
 }
 
-p.intro {
-  margin: $gutter/2 0 $gutter 0;
+.intro {
+  @include media(tablet) {
+    margin: $gutter/2 0 $gutter * 3 0;
+  }
+
   max-width: 790px;
 }
 
