@@ -4,6 +4,10 @@ header {
   border-bottom: 1px solid $darkgrey;
   background: $headbg;
 
+  > .container {
+    padding-bottom: $gutter;
+  }
+
   .site-title {
     @include title-big;
     color: $grey;
@@ -26,9 +30,10 @@ header {
 
   .contact-details {
     @include title-small;
-    margin-top: $gutter;
+    font-size: 21px;
+    margin-top: $gutter * 1.25;
     margin-bottom: $gutter;
-    line-height: 1.25;
+    line-height: 1.5;
 
     @include media(tablet) {
       text-align: right;
