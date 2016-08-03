@@ -62,15 +62,12 @@
 @mixin text-medium() {
     font-family: arial, helvetica, sans-serif;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.4;
 
-    @include media(tablet) {
-      font-size: 20px;
-    }
 
     @include media(desktop) {
-      font-size: 24px;
+      font-size: 19px;
     }
 }
 
