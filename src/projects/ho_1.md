@@ -7,6 +7,7 @@ startdate: 2015-10-01
 enddate: 2016-09-01
 coverimage: LandingPage_SRRS.jpg
 website: https://www.gov.uk/government/world/syria
+auth: true
 images:
   - src: Project_SRRS_1.jpg
     description: |

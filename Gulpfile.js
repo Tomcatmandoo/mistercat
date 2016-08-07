@@ -14,6 +14,7 @@ var permalinks = require("metalsmith-permalinks");
 var drafts = require("metalsmith-drafts");
 var define = require("metalsmith-define");
 var ignore = require('metalsmith-ignore');
+var auth = require('./auth');
 var dateFormatter = require('metalsmith-date-formatter');
 var sftp = require('gulp-sftp');
 var marked = require('marked');
@@ -139,6 +140,12 @@ gulp.task('metal', () => {
       ]
     }))
     .use(parseImageDescription)
+    .use(auth({
+      serverPath: process.env.REMOTEPATH,
+      authName: 'Protected Projects',
+      username: process.env.USER,
+      password: process.env.PASSWORD
+    }))
     .use(templates({
       engine: "nunjucks",
       directory: "templates"
