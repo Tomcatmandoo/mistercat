@@ -6,7 +6,7 @@
   </div>
   <div class="row">
     <div class="col-sm-8">
-      <h1 class="heading-large">{{ client }}</h1>
+      <h1 class="heading-large">{{ title }}</h1>
       <div class="introduction">{{ contents | safe }}</div>
     </div>
     <div class="col-sm-4">
@@ -18,7 +18,13 @@
         <dt class="title">Project dates</dt>
         <dd class="data">{{ startdate }} to {{ enddate }}</dd>
       </dl>
-      <a class="project-link" href="{{ website }}">View project</a>
+      {% if website %}
+        <p><a class="project-link" href="{{ website }}">View project</a></p>
+      {% endif %}
+      {% if related %}
+        <p><a class="project-link" href="{{ related }}">View related article</a></p>
+      {% endif %}
+
     </div>
   </div>
   {% for image in images%}

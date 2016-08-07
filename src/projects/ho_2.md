@@ -7,7 +7,7 @@ startdate: 2016-06-01
 enddate: 2016-07-01
 coverimage: LandingPage_HelpRefugees.jpg
 website: https://www.gov.uk/help-refugees
-         https://www.theguardian.com/world/2016/jul/19/archbishop-of-canterbury-syrian-family-refugee-sponsorship-scheme
+related: https://www.theguardian.com/world/2016/jul/19/archbishop-of-canterbury-syrian-family-refugee-sponsorship-scheme
 images:
   - src: Project_HelpRefugees_1.jpg
     description: |
@@ -16,7 +16,7 @@ images:
       I am a fan of clear communication and everyone in the team and stakeholders having a clear picture of the task at hand.
   - src: Project_HelpRefugees_2.jpg
     description: |
-      This process map was used to show how the user information flowed. It was also simplified to help the main stakeholder understand the proposal. 
+      This process map was used to show how the user information flowed. It was also simplified to help the main stakeholder understand the proposal.
   - src: Project_HelpRefugees_3.jpg
     description: |
       This is the landing page for the service. There was a lot of effort put into the content design and the layout in order to make it as simple and straight-forward as possible.
@@ -33,9 +33,9 @@ images:
 
 
 ---
-Due to a high level of public interest and concern, we were tasked with developing a trial online solution to help members of the public find out how and what kind of help to be able to offered to refugees. 
+Due to a high level of public interest and concern, we were tasked with developing a trial online solution to help members of the public find out how and what kind of help to be able to offered to refugees.
 
-User research identified that councils enrolled in the trial project needed a way to tell the public what they wanted to help their newly arrived refugees, rather than receive lots of things that they didn’t need. 
+User research identified that councils enrolled in the trial project needed a way to tell the public what they wanted to help their newly arrived refugees, rather than receive lots of things that they didn’t need.
 
 I designed a system where the council has a log in, then a check list of items or services to select, which they can then publish to the public Gov.uk website. The public select their local area on the website, view the list of requested donations, check off what they’d like to offer on the list, leave their contact details and the council will contact them to arrange for delivery of the items or services.
 
