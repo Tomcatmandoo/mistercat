@@ -6,7 +6,7 @@ role: Service design, Interaction design, UX design, UI design
 startdate: 2014-06-01
 enddate: 2014-09-01
 coverimage: LandingPage_PQs.jpg
-website: https://mojdigital.blog.gov.uk/2014/11/21/minding-our-pqs-parliamentary-questions-tracker/
+related: https://mojdigital.blog.gov.uk/2014/11/21/minding-our-pqs-parliamentary-questions-tracker/
 auth: true
 images:
   - src: Project_PQs_1.jpg
