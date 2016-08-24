@@ -16,7 +16,7 @@ var define = require("metalsmith-define");
 var ignore = require('metalsmith-ignore');
 var auth = require('./auth');
 var dateFormatter = require('metalsmith-date-formatter');
-var sftp = require('gulp-sftp');
+var ftp = require( 'vinyl-ftp' );
 var marked = require('marked');
 
 marked.setOptions({
@@ -157,13 +157,21 @@ gulp.task('metal', () => {
 });
 
 gulp.task('deploy', () => {
-  return gulp.src('build/**/*')
-    .pipe(sftp({
-      host: process.env.HOST,
-      user: process.env.USER,
-      pass: process.env.PASSWORD,
-      remotePath: process.env.REMOTEPATH
-    }));
+
+  var conn = ftp.create( {
+    host: process.env.HOST,
+    user: process.env.USER,
+    password: process.env.PASSWORD,
+    port: 21,
+    secure: true,
+    secureOptions: {
+      rejectUnauthorized: false
+    }
+  } );
+
+  return gulp.src(['build/**/*'], { buffer: false })
+    .pipe( conn.newer( process.env.REMOTEPATH ) ) // only upload newer files
+    .pipe( conn.dest( process.env.REMOTEPATH ) );
 
 });
 
