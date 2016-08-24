@@ -131,11 +131,11 @@ gulp.task('metal', () => {
       dates: [
         {
           key: 'startdate',
-          format: 'MMM YY'
+          format: 'MMM YYYY'
         },
         {
           key: 'enddate',
-          format: 'MMM YY'
+          format: 'MMM YYYY'
         }
       ]
     }))
