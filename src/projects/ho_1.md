@@ -39,6 +39,9 @@ images:
       It was very important to maintain the privacy of the refugee data and keep it locked behind the Home Office network.
 
       Third-party organisations are given log-ins and notified by email of cases to process and then upload the results directing into the service as data.
+  - src: Project_SRRS_7.jpg
+    description: |
+      As well as constant paper sketching I also made some large scale drawings to provoke discussions around specific service design interactions with the team.
 
 
 ---

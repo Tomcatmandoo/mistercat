@@ -6,7 +6,7 @@ role: Service design, Interaction design, UX design, UI design
 startdate: 2014-06-01
 enddate: 2014-09-01
 coverimage: LandingPage_PQs.jpg
-related: https://mojdigital.blog.gov.uk/2014/11/21/minding-our-pqs-parliamentary-questions-tracker/
+website: https://mojdigital.blog.gov.uk/2014/11/21/minding-our-pqs-parliamentary-questions-tracker/
 auth: true
 images:
   - src: Project_PQs_1.jpg
@@ -44,6 +44,9 @@ images:
   - src: Project_PQs_7.jpg
     description: |
       I designed this map of the service to show the mechanics and interdependancies of the PQ tracker tool.
+  - src: Project_PQs_8.jpg
+    description: |
+      This is me working something out. I usually do this in an 20th century style with pen and paper.
 
 
 ---
