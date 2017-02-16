@@ -34,21 +34,21 @@ images:
       This project required constant user research and user testing with the resettlement team as the process used were extremely complex and inter-dependant with may other processes.
   - src: Project_SRRS_6.jpg
     description: |
-      I developed a concept for the process to interact with all the third party organisations that provided crucial data, health checks and security checks.
+      Developing a service process for interaction with all the third party organisations that provided crucial data, health checks and security checks.
 
       It was very important to maintain the privacy of the refugee data and keep it locked behind the Home Office network.
 
       Third-party organisations are given log-ins and notified by email of cases to process and then upload the results directing into the service as data.
   - src: Project_SRRS_7.jpg
     description: |
-      As well as constant paper sketching I also made some large scale drawings to provoke discussions around specific service design interactions with the team.
+      As well as constant paper sketching, some large scale drawings were made to provoke discussions around specific service design interactions with the team.
 
 
 ---
-This is the main project that I’ve worked on at the Home Office. We worked with the Syrian refugee resettlement team to develop a digital case-working tool to aid them in resettling 20,000 Syrian refugees out-of-country.. The main focus was on digitising the case-work process to improve efficiency in quality case consideration, as well as the time taken to do this and creating useful management information statistics.
+This is the main project that was worked on at the Home Office. We worked with the Syrian refugee resettlement team to develop a digital case-working tool to aid them in resettling 20,000 Syrian refugees out-of-country. The main focus was on digitising the case-work process to improve efficiency in quality case consideration, as well as the time taken to do this and creating useful management information statistics.
 
 **Tasks include:**
-Process mapping the existing way of doing things and identifying pain-points through user research. Service design principles were used to focus on Activities, Needs, Goals and Barriers of key potential users of the service. This was synthesised into 6 areas opportunity and develope to propose 3 different scope sizes of the project to the stakeholders. I designed user journeys, screen interactions and UI for the new digital service. I created paper & digital prototypes which were user-tested with the resettlement team.
+Process mapping the existing way of doing things and identifying pain-points through user research. Service design principles were used to focus on Activities, Needs, Goals and Barriers of key potential users of the service. This was synthesised into 6 areas opportunity and develope to propose 3 different scope sizes of the project to the stakeholders. I designed user journeys, screen interactions and UI for the new digital service. Creating paper & digital prototypes which were user-tested with the resettlement team.
 
 **Intended Outcomes:**
 The Syrian resettlement team’s aim is to bring refugees identified as vulnerable by UNHCR into the UK as defined by current government policy. The current process is slow and error-prone. We are trying to improve the process and create efficiencies by digitising the process and using raw data to re-format and share with 3rd party organisations.

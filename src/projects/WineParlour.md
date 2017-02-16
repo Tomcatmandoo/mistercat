@@ -16,7 +16,7 @@ images:
       An example page from the brand guidelines document.
   - src: Project_WineParlour_3.jpg
     description: |
-      My illustration of the wine bar for the house wine bottle labels. It’s a sketch of the wine bar, with the owner at the door.
+      The illustration of the wine bar for the house wine bottle labels. It’s a sketch of the wine bar, with the owner at the door.
   - src: Project_WineParlour_4.jpg
     description: |
       The house wine label designs.
@@ -25,15 +25,15 @@ images:
       The house wine label designs in situ.
   - src: Project_WineParlour_6.jpg
     description: |
-      My direction for the website content was to lean towards the experience, the story of the company, the day-to-day blog, tastings and courses.
+      The direction for the website content was to lean towards the experience, the story of the company, the day-to-day blog, tastings and courses.
   - src: Project_WineParlour_7.jpg
     description: |
-      My storyboards for the photoshoots.
+      The storyboards for the photoshoots.
 
 
 ---
-I was commissioned by boutique wine specialists Chix & Buck to create a compelling and sophisticated design for the exterior of their first wine shop/wine bar located in Brixton. The brief was to set the scene for a unique wine experience by creating a charistmatic, yet clean and simple identity through the use of typography.
+Commission by boutique wine specialists Chix & Buck to create a compelling and sophisticated design for the exterior of their first wine shop/wine bar located in Brixton. The brief was to set the scene for a unique wine experience by creating a charistmatic, yet clean and simple identity through the use of typography.
 
-I also created brand guidelines for the use of logos, fonts, colours, spacing and imagery. From there I designed the wine labels, as well as illustrating the label image. I made templates for the menus, generic wine labels and shelf labels so that the business was easily able update the changing content.
+Brand guidelines creation for the use of logos, fonts, colours, spacing and imagery. From there I designed the wine labels, as well as illustrating the label image. Template design for the menus, generic wine labels and shelf labels so that the business was easily able update the changing content.
 
-I designed the website, consulted on the content structure and art directed 2 photo shoots to provide bespoke image collateral for the business to use for the website and other promotional material.
+Website design, consulted on the content structure and art direction of 2 photo shoots to provide bespoke image collateral for the business to use for the website and other promotional material.

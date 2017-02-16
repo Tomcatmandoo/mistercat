@@ -20,8 +20,8 @@ images:
 
 
 ---
-I was asked to develop imagery for a ‘self-help’ area within the Help & Support section of Sky.com. I was influenced by both IKEA construction guides for their products and Haynes automobile manuals. I was keen to avoid the usual photographic representations of Sky products as they were less specific and were full of visual clutter, by producing line drawn representations I could also export them, as an SVG format, reducing the image size further.
+The task was to develop imagery for a ‘self-help’ area within the Help & Support section of Sky.com. Inspiration came from both IKEA product construction guides and Haynes automobile manuals. A decision was made to veer away from the photographic representations of Sky products and avoid the visual clutter, instead using line drawn representations. This was useful as they could easily be exported as 'SVG' format, reducing the image size further.
 
-**Tasks included:** Certain key customer problem areas were identified and content was devised as step-by-step guides. In the spirit of Haynes car manuals and Ikea instruction leaflets, I devised simple line drawn annotated infographics to described stepped processes using Sky products such as TV boxes, remote controls and routers. Some were hand-drawn, others were based around vector exports from the product team’s 3D product renders.
+**Tasks included:** Certain key customer problem areas were identified and content was devised as step-by-step guides. In the spirit of Haynes car manuals and Ikea instruction leaflets, devising simple line drawn annotated infographics to described stepped processes using Sky products such as TV boxes, remote controls and routers. Some were hand-drawn, others were based around vector exports from the product team’s 3D product renders.
 
-**Outcomes:** The clear and concise imagery, devoid of colour and shadow makes the (sometimes complicated) instructions considerably easier to understand. Using the line grids from original 3D renders I was able to reproduce these drawings very quickly.
+**Outcomes:** The clear and concise imagery, devoid of colour and shadow makes the (sometimes complicated) instructions considerably easier to understand. Using the line grids from original 3D renders it was possible to reproduce these drawings very quickly.

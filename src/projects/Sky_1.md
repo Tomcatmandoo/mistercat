@@ -39,7 +39,7 @@ images:
 
 
 ---
-I worked on a number of responsive design projects for Sky Digital, focusssing on the customer relations areas of the website - My Sky, the subscriber hub for Sky customers and the Contact section.
+Working on a number of responsive design projects for Sky Digital, focusssing on the customer relations areas of the website - My Sky, the subscriber hub for Sky customers and the Contact section.
 
 **My Sky section**
 **Tasks included:** Re-purposing an important customer-focussed section of Sky.com to be fully responsive and more personalised. Improving existing journeys, interactions and messaging based around the results of A/B user testing.
@@ -49,6 +49,4 @@ I worked on a number of responsive design projects for Sky Digital, focusssing o
 **Contact section**
 **Tasks included:** Designing a fully responsive website solution for the customer contact area of Sky.com. Based around the existing Sky contact centre set-up, the improved signposting, interactions and functionality across devices were directly based on user lab testing results and best practice.
 
-**Outcomes:** The customer contact volumes increased with far less fall-off rates than before and customers expressed satisfaction at the clarity of information. The delivery of this project is also a first among industry competitors. As a designer I fought hard against the ‘dark patterns’ being proposed by the business and based on user testing my team manage to mitigate against a lot of this regressive practice.
-
-I’m pleased to say that 3 years later, they are still using my design for their contact section.
+**Outcomes:** The customer contact volumes increased with far less fall-off rates than before and customers expressed satisfaction at the clarity of information. The delivery of this project was also a first among industry competitors. There was a hard fight against the ‘dark patterns’ being proposed by the business and based on user testing my team manage to mitigate against a lot of this regressive practice.

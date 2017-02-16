@@ -11,16 +11,16 @@ auth: true
 images:
   - src: Project_PQs_1.jpg
     description: |
-      Understanding and analysing the existing process to identify pain-points and opportunities to change or improve the service is the place that I start with most projects.
+      Understanding and analysing the existing process to identify pain-points and opportunities to change or improve the service is the starting with most projects.
 
       It will begin with lots of drawing on extended A3 paper sheets and will eventually become a designed artefact to be used by the team and the stakeholders.
 
       Many clients have been astounded to see the process they use every day plotted out as a process map.
   - src: Project_PQs_2.jpg
     description: |
-      I carried out a user research activity with the Parliamentary Branch staff to understand how they might percieve a user interface for the job that they do.
+      User research activity was carried out with the Parliamentary Branch staff to understand how they might percieve a user interface for the job that they do.
 
-      I drew up and cut out paper illustrating relevant functions of the job or tracking Parliamentary Questions. I then had them put together their own personal functionality jigsaw to understand what was important to them, but also to get them thinking about their process as an interface.
+      Paper prototyping using drawn interfaces with cut out paper illustrating relevant functions of the job or tracking Parliamentary Questions. The activity involved the users putting together their own preferred functionality jigsaw to understand what was important to them, but also to get them thinking about their process as an interface.
   - src: Project_PQs_3.jpg
     description: |
       An early design interface design drawing to pull together a PQ list with a PQ details page.
@@ -43,14 +43,14 @@ images:
       It also produced MI reports and allowed Ministers to have read-only views of the PQs relating to their department.
   - src: Project_PQs_7.jpg
     description: |
-      I designed this map of the service to show the mechanics and interdependancies of the PQ tracker tool.
+      Process mapping the service to show the mechanics and interdependancies of the PQ tracker tool.
   - src: Project_PQs_8.jpg
     description: |
-      This is me working something out. I usually do this in an 20th century style with pen and paper.
+      Working things out in 20th century style with pen and paper.
 
 
 ---
-I worked in a team at MoJ Digital Services who collaborated with the MoJ Parliamentary Branch (who field parliamentary questions) for 20 weeks to produce the UK government’s first open source parliamentary questions (PQs) tracking tool.
+Working in a multi-disciplinary team at MoJ Digital Services, collaborating with the MoJ Parliamentary Branch (who field parliamentary questions) for 20 weeks to produce the UK government’s first open source parliamentary questions (PQs) tracking tool.
 
 MPs and Peers will ask regularly ask questions of government departments, who are obliged to get them answered and returned in a timely manner. Our aims were to be able to make the processes of doing this at MoJ Parliamentary Branch much more effective, whilst being able to track the progress of every parliamentary question.
 

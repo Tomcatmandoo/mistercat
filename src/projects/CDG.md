@@ -22,14 +22,14 @@ images:
 
 
 ---
-I worked on a number of digital annual reports for some major corporations, using a lot of rich-media and animated
+UI design work on a number of digital annual reports for some major corporations, using a lot of rich-media and animated
 infographics to spice up this usually boring subject.
 
 **Tasks included:** UI design and layout for digital annual reports. Laying out large quantities of 
 content and managing changes through graphic specification documentation - the brand guideline 
 specifications were made at the same time as the design, working closely with the clients to allow close cooperation and project visibility.
 
-I also worked a promotional website for Vi-Spring, a company making bespoke beds.
+UI design work a promotional website for Vi-Spring, a company making bespoke beds.
 
 **Tasks included:** UI design and layout for high end content using a rich media experience. Again, using 
 the same approach of creating brand documentation as the project developed.

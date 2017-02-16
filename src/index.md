@@ -1,8 +1,8 @@
 ---
 template: index.html
 ---
-Mister Cat offers highly organised creative services with strong user-centred design skills. 
+We offer creative services for the digital industry with a strong focus on user-centred design.
 
-With 22 years of digital design experience, we bring together interaction, UI and UX design knowledge. We apply service design principles into our practice and consider user research a crucial step in the design process. 
+With 22 years of digital design experience, we bring together interaction, UI and UX design knowledge. We apply service design principles into our practice and we specialise in designing for user needs based on solid user research. 
 
-We also colloborate with other design and user research companies to provide the best possible services to our clients.
+We also collaborate with other UX design and User Research companies to provide the best possible solutions to our clients.
